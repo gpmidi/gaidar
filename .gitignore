@@ -12,3 +12,7 @@
 *.out
 .idea
 *.iml
+/vendor/golang.org/
+/vendor/gopkg.in/
+/vendor/github.com/
+
