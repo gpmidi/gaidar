@@ -1,6 +1,5 @@
-# gaidar
-gAIdar
-
+# Cock Blocker
+_The Cock Blocker_
 
 
 ## Tools
